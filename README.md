@@ -1,0 +1,1 @@
+Android application for bank account management system. Offline system only for demonstration
